@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "416744512419",
+    "project_id": "my-money-compose",
+    "storage_bucket": "my-money-compose.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416744512419:android:67e20e101ab0e3bdc71816",
+        "android_client_info": {
+          "package_name": "com.guilhermeb.mymoneycompose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416744512419-33lhvn099e1hqijujc7q2sot28eftaap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt5J_DI0vwDzpH_KjLHig1IIimbi0JLhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416744512419-33lhvn099e1hqijujc7q2sot28eftaap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

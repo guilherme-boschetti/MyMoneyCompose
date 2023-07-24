@@ -1,0 +1,220 @@
+<resources>
+    <string name="app_name">My Money Compose</string>
+    <!-- Login -->
+    <string name="image_logo">Image Logo</string>
+    <string name="email">E-mail</string>
+    <string name="hint_email">example@example.com</string>
+    <string name="password">Password</string>
+    <string name="hint_password">********</string>
+    <string name="login">"Log in"</string>
+    <string name="forgot_password"><u>Forgot password?</u></string>
+    <string name="do_not_have_an_account">Don\'t have an account?</string>
+    <string name="create_account">Create account</string>
+    <string name="failed_to_login">Login failed</string>
+    <string name="loading">Loading…</string>
+    <string name="error">error</string>
+    <!-- Forgot password -->
+    <string name="inform_your_e_mail_to_recover_your_password">Inform your e-mail to recover your password</string>
+    <string name="failed_to_send_password_recovery_email">Failed to send password recovery e-mail</string>
+    <string name="recover_password">Recover password</string>
+    <!-- Recover password -->
+    <string name="you_will_receive_an_email_to_recover_your_password">You will receive an e-mail to recover your password!\nPlease check your e-mail.</string>
+    <string name="back_to_login">Back to login</string>
+    <!-- Offline -->
+    <string name="no_internet_connection">No internet connection!</string>
+    <string name="please_check_your_internet_connection_and_try_again">Please check your internet connection and try again.</string>
+    <!-- Create account -->
+    <string name="repeat_the_email">Repeat the e-mail</string>
+    <string name="repeat_the_password">Repeat the password</string>
+    <string name="i_accept_the">I accept the</string>
+    <string name="terms_and_conditions_underlined"><u>terms and conditions</u></string>
+    <string name="terms_and_conditions_acceptance_required">You must accept the terms and conditions</string>
+    <string name="failed_to_create_account">Failed to create account</string>
+    <string name="the_emails_are_different">The e-mails are different</string>
+    <string name="the_passwords_are_different">The passwords are different</string>
+
+    <string name="invalid_account">Invalid account</string>
+    <string name="account_disabled">Account disabled</string>
+    <string name="invalid_email">Invalid e-mail</string>
+    <string name="invalid_password">Invalid password</string>
+    <string name="weak_password">Weak password; Use at least 6 characters, letters, numbers and special characters.</string>
+    <string name="account_already_exists">Account already exists; E-mail already registered.</string>
+    <string name="email_already_in_use">E-mail already in use; E-mail already registered.</string>
+    <string name="credentials_already_in_use">Credentials already in use</string>
+
+    <!-- Terms and conditions -->
+    <string name="close">Close</string>
+    <string name="terms_and_conditions_title">Terms and conditions</string>
+    <string name="terms_and_conditions_text">When using the app, you will inevitably share some information. Your privacy and security is valued, please read this Privacy Policy carefully so you can make informed decisions about your use of the app.\n
+\nWhat kind of information is collected from people using the app?\n
+\nPersonal data\n
+\nPersonal data refers to personally identifiable information that specifically identifies you as an individual (e.g. email address). Your email is used for authentication only.\n
+\nNon-personal data\n
+\nNon-personal data refers to information that, by itself, does not personally identify you.\n
+\nNon-personal data is currently not collected in the app.\n
+\nThe Application uses Firebase services. By using the app, you agree to the terms of this policy.\n
+\nYou can find more information about Firebase policy here: <a href="https://firebase.google.com/terms">https://firebase.google.com/terms</a>\n
+\nAcceptance of terms\n
+\nBy using the app, you agree to the terms of this policy. If you do not accept the terms of this policy, do not install or use the application. Your continued use of the app after any change to this privacy policy will be deemed your acceptance of the changes and/or new terms.\n
+\nPolicy changes\n
+\nThis Privacy Policy may be updated at any time. It is suggested that you check these terms with each app update to be aware of any changes. You acknowledge and accept that it is your responsibility to review this policy with each application update to be aware of changes.\n
+\nIf this Policy is changed, a new version of the application will be made available for update. The changes will take effect when the app is updated. Please regularly check the app for updates.</string>
+    <string name="i_accept_the_terms_and_conditions">I accept the terms and conditions</string>
+    <!-- Menu -->
+    <string name="menu">Menu</string>
+    <string name="about">About</string>
+    <string name="account">Account</string>
+    <string name="settings">Settings</string>
+    <string name="logout">Logout</string>
+    <!-- Item List -->
+    <string name="add_item">Add item</string>
+    <string name="open_slide_menu">Open slide menu</string>
+    <string name="close_slide_menu">Close slide menu</string>
+    <string name="view">View</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="are_you_sure_you_want_to_delete">Are you sure you want to delete?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="balance">Balance:</string>
+    <string name="balance_description">Balance = (total income) - (total expense)</string>
+    <string name="balance_description_with_previous_month">Balance = (previous month balance) + \n (total income) - (total expense)</string>
+    <string name="previous_month_balance">Previous month balance:</string>
+    <string name="total_income">Total income:</string>
+    <string name="total_expense">Total expense:</string>
+    <string name="total_expense_fixed">Total expense fixed:</string>
+    <string name="total_expense_not_fixed">Total expense not fixed:</string>
+    <string name="total_expense_paid">Total expense paid:</string>
+    <string name="total_expense_not_paid">Total expense not paid:</string>
+    <string name="undo_snack_bar_text">Item deleted</string>
+    <string name="undo_snack_bar_button_text">UNDO</string>
+    <string name="not_paid">Not paid</string>
+    <string name="received">Received</string>
+    <string name="not_received">Not received</string>
+    <string name="no_items">No items</string>
+    <string name="chart">Chart</string>
+    <string name="generate_file">Generate file</string>
+    <!-- Item Detail -->
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="value">Value</string>
+    <string name="pay_date">Pay date</string>
+    <string name="reception_date">Reception date</string>
+    <string name="income">Income</string>
+    <string name="expense">Expense</string>
+    <string name="type">Type</string>
+    <string name="subtype">Category or Subtype</string>
+    <string name="paid">Paid</string>
+    <string name="fixed">Fixed</string>
+    <string name="due_day">Due day</string>
+    <string name="reception_day">Reception day</string>
+    <string name="hint_description">Description (Optional)</string>
+    <string name="hint_value">0,000.00</string>
+    <string name="hint_subtype">Category or Subtype (Optional)</string>
+    <string name="hint_date">dd/mm/yyyy</string>
+    <string name="hint_day">31</string>
+    <string name="save_or_edit">Save or edit</string>
+    <string name="select_the_date">Select the date</string>
+    <string name="cancel">Cancel</string>
+    <string name="back">Back</string>
+
+    <string name="title_should_not_be_empty">Title should not be empty</string>
+    <string name="value_should_not_be_empty">Value should not be empty</string>
+    <string name="invalid_value">Invalid value</string>
+    <string name="you_should_choose_the_type">You should choose the type\n(Income ou Expense)</string>
+    <string name="pay_date_should_not_be_empty">Pay date should not be empty</string>
+    <string name="invalid_pay_date">Invalid pay date</string>
+    <string name="due_day_should_not_be_empty">Due day should not be empty</string>
+    <string name="invalid_due_day">Invalid due day</string>
+    <string name="invalid_due_day_month">Invalid due day. Should be between 1 and 31</string>
+    <!-- Settings -->
+    <string name="language">Language</string>
+    <string name="currency">Currency</string>
+    <string name="use_previous_month_balance">Use previous month balance</string>
+    <string name="update_changes_in_real_time">Update changes in real time</string>
+    <string name="dark_mode">Dark mode</string>
+    <string name="ui_mode">UI mode</string>
+    <string name="light">Light</string>
+    <string name="dark">Dark</string>
+    <string name="system_default">System default</string>
+    <!-- Account -->
+    <string name="change_password_underlined"><u>Change password</u></string>
+    <string name="delete_account">Delete account</string>
+    <string name="are_you_sure_you_want_to_logout">Are you sure you want to logout?</string>
+    <string name="are_you_sure_you_want_to_delete_account">Are you sure you want to delete account?</string>
+    <string name="account_deleted_successfully">Account deleted successfully</string>
+    <string name="failed_to_delete_account">Failed to delete account</string>
+    <!-- Change Password -->
+    <string name="change_password">Change Password</string>
+    <string name="current_password">Current password</string>
+    <string name="new_password">New password</string>
+    <string name="repeat_the_new_password">Repeat the new password</string>
+    <string name="password_updated_successfully">Password updated successfully</string>
+    <string name="failed_to_update_password">Failed to update password</string>
+    <!-- About -->
+    <string name="version">Version: %1$s</string>
+    <string name="about_text">This is an application to do financial management.\n
+\nControlling monthly expenses can be a difficult task for many people. Many of them do not keep track of their spending, and sometimes end up being negative for spending more than they could. Other people keep track of their expenses by writing it down, whether in a notebook, diary or even a notepad, and use the help of a calculator to calculate their expenses and/or their balance for the month.\n
+\nThese expenses can be of varied types, such as purchases at the market, household bills such as water, electricity, telephone, gas, installments for purchases of clothes or household items, healthcare expenses, medicines, study expenses, school supplies, vehicle expenses, there are a multitude of possible types of expenses that people have every month, and many of these people have difficulty keeping track of their expenses.\n
+\nOne of the problems suffered by people who write down their expenses on paper is that not whenever they make a purchase, or pay for some bill or expense, they have their paper and pen at hand to make their notes, and later they end up forgetting to write it down, and as a result, they end up not having an efficient control of their expenses.\n
+\nIn this context, this application aims to help people to control their expenses.\n
+\nIt is possible to inform expenses, of the most diverse types, to control everything that is spent in the month. It is also possible to report earnings. The application adds up earnings and expenses and displays the balance for the month.</string>
+    <!-- Month -->
+    <string name="january">January</string>
+    <string name="february">February</string>
+    <string name="march">March</string>
+    <string name="april">April</string>
+    <string name="may">May</string>
+    <string name="june">June</string>
+    <string name="july">July</string>
+    <string name="august">August</string>
+    <string name="september">September</string>
+    <string name="october">October</string>
+    <string name="november">November</string>
+    <string name="december">December</string>
+    <!-- Chart -->
+    <string name="change_chart">Change chart</string>
+    <string name="no_subtype">No category</string>
+    <string name="chart_description_text">Monthly Expenses by Category (Subtype). Total expenses: %1$s</string>
+    <!-- File generator -->
+    <string name="file_name">File name</string>
+    <string name="file_extension">File extension</string>
+    <string name="generating_file">Generating file…</string>
+    <string name="generate_file_error">Error generating file</string>
+    <string name="ok">OK</string>
+    <string name="save">Save</string>
+    <string name="invalid_file_name">Invalid file name. Should not contain punctuation, spaces or special characters</string>
+    <string name="file_name_should_not_be_empty">File name should not be empty</string>
+    <string name="file_extension_required">File extension required</string>
+    <string name="csv">.csv</string>
+    <string name="pdf">.pdf</string>
+    <string name="txt">.txt</string>
+    <string name="xls">.xls</string>
+    <string name="view_file_snack_bar_text">File generated</string>
+    <string name="view_file_snack_bar_button_text">VIEW</string>
+    <string name="id">ID</string>
+    <string name="creation_date">Creation date</string>
+    <string name="sheet">Sheet</string>
+    <!-- Currency Converter -->
+    <string name="currency_converter">Currency Converter</string>
+    <string name="amount">Amount</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="convert">Convert</string>
+    <string name="amount_should_not_be_empty">Amount should not be empty</string>
+    <string name="from_currency_required">Currency \"From\" required</string>
+    <string name="to_currency_required">Currency \"To\" required</string>
+    <string name="from_to_currency_should_not_be_equal">\"From\" currency should not be equal to \"To\" currency</string>
+    <string name="failure">Failure</string>
+    <!-- Themes -->
+    <string name="themes">Themes</string>
+    <string name="default_with_brackets">(Default)</string>
+    <string name="green">Green</string>
+    <string name="red">Red</string>
+    <string name="blue">Blue</string>
+    <string name="pink">Pink</string>
+    <string name="purple">Purple</string>
+    <!-- Drawer Header -->
+    <string name="rate_the_app">Liked? Rate the app</string>
+    <string name="know_the_pro_version">Know the Pro version</string>
+</resources>

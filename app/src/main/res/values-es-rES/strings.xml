@@ -1,0 +1,220 @@
+<resources>
+    <string name="app_name">Mi Dinero Compose</string>
+    <!-- Login -->
+    <string name="image_logo">Imagen Logo</string>
+    <string name="email">E-mail</string>
+    <string name="hint_email">ejemplo@ejemplo.com</string>
+    <string name="password">Clave</string>
+    <string name="hint_password">********</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="forgot_password"><u>Olvido la contraseña?</u></string>
+    <string name="do_not_have_an_account">No tienes una cuenta?</string>
+    <string name="create_account">Crea una cuenta</string>
+    <string name="failed_to_login">No se puedo hacer login</string>
+    <string name="loading">Cargando…</string>
+    <string name="error">error</string>
+    <!-- Forgot password -->
+    <string name="inform_your_e_mail_to_recover_your_password">Introduce tu e-mail para recuperar tu contraseña</string>
+    <string name="recover_password">Recuperar contraseña</string>
+    <!-- Recover password -->
+    <string name="you_will_receive_an_email_to_recover_your_password">Recibirás un e-mail de recuperación de contraseña!\nPor favor revise su correo electrónico.</string>
+    <string name="failed_to_send_password_recovery_email">No se puedo enviar el correo electónico de recuperación de contraseña</string>
+    <string name="back_to_login">Volver a login</string>
+    <!-- Offline -->
+    <string name="no_internet_connection">Sin internet!</string>
+    <string name="please_check_your_internet_connection_and_try_again">Comprueba tu conexión a Internet e inténtalo de nuevo.</string>
+    <!-- Create account -->
+    <string name="repeat_the_email">Repite el e-mail</string>
+    <string name="repeat_the_password">Repite la contraseña</string>
+    <string name="i_accept_the">Acepto el</string>
+    <string name="terms_and_conditions_underlined"><u>términos y Condiciones</u></string>
+    <string name="terms_and_conditions_acceptance_required">Debe aceptar los términos y condiciones</string>
+    <string name="failed_to_create_account">No se puedo Crea la cuenta</string>
+    <string name="the_emails_are_different">Los e-mails son diferentes</string>
+    <string name="the_passwords_are_different">Las contraseñas son diferentes</string>
+
+    <string name="invalid_account">Cuenta no válida</string>
+    <string name="account_disabled">Cuenta deshabilitada</string>
+    <string name="invalid_email">E-mail inválido</string>
+    <string name="invalid_password">Contraseña inválida</string>
+    <string name="weak_password">Contraseña débil; Usa al menos 6 caracteres, letras, números y caracteres especiales.</string>
+    <string name="account_already_exists">La cuenta ya existe; E-mail ya registrado.</string>
+    <string name="email_already_in_use">E-mail ya en uso; E-mail ya registrado.</string>
+    <string name="credentials_already_in_use">Credenciales ya en uso</string>
+
+    <!-- Terms and conditions -->
+    <string name="close">Cerrar</string>
+    <string name="terms_and_conditions_title">Términos y Condiciones</string>
+    <string name="terms_and_conditions_text">Al usar la aplicación, inevitablemente compartirá alguna información. Su privacidad y seguridad son valoradas, lea atentamente esta Política de privacidad para que pueda tomar decisiones informadas sobre su uso de la aplicación.\n
+\nQué tipo de información se recopila de las personas que usan la aplicación?\n
+\nDatos personales\n
+\nLos datos personales se refieren a información de identificación personal que lo identifica específicamente como individuo (por ejemplo, correo electrónico). Su correo electrónico se utiliza solo para la autenticación.\n
+\nDatos no personales\n
+\nLos datos no personales se refieren a información que, por sí misma, no lo identifica personalmente.\n
+\nLos datos no personales actualmente no se recopilan en la aplicación.\n
+\nLa Aplicación utiliza servicios de Firebase. Al utilizar la aplicación, acepta los términos de esta política.\n
+\nPuede encontrar más información sobre la política de Firebase aquí: <a href="https://firebase.google.com/terms">https://firebase.google.com/terms</a>\n
+\nAceptación de los términos\n
+\nAl usar la aplicación, acepta los términos de esta política. Si no acepta los términos de esta política, no instale ni utilice la aplicación. Su uso continuado de la aplicación después de cualquier cambio en esta política de privacidad se considerará como su aceptación de los cambios y/o nuevos términos.\n
+\nCambios en la política\n
+\nEsta Política de Privacidad puede ser actualizada en cualquier momento. Se sugiere que verifique estos términos con cada actualización de la aplicación para estar al tanto de cualquier cambio. Usted reconoce y acepta que es su responsabilidad revisar esta política con cada actualización de la aplicación para estar al tanto de los cambios.\n
+\nSi se cambia esta Política, una nueva versión de la aplicación estará disponible para su actualización. Los cambios entrarán en vigor cuando se actualice la aplicación. Por favor revise regularmente la aplicación para actualizaciones.</string>
+    <string name="i_accept_the_terms_and_conditions">Acepto el términos y Condiciones</string>
+    <!-- Menu -->
+    <string name="menu">Menú</string>
+    <string name="about">Sobre</string>
+    <string name="account">Cuenta</string>
+    <string name="settings">Ajustes</string>
+    <string name="logout">Salir</string>
+    <!-- Item List -->
+    <string name="add_item">Agregar elemento</string>
+    <string name="open_slide_menu">Abrir menú lateral</string>
+    <string name="close_slide_menu">Cerrar menú lateral</string>
+    <string name="view">Ver</string>
+    <string name="edit">Editar</string>
+    <string name="delete">Eliminar</string>
+    <string name="are_you_sure_you_want_to_delete">Estas seguro que quieres eliminar?</string>
+    <string name="yes">Sí</string>
+    <string name="no">No</string>
+    <string name="balance">Saldo:</string>
+    <string name="balance_description">Saldo = (total ganado) - (total gastado)</string>
+    <string name="balance_description_with_previous_month">Saldo = (el saldo del mes anterior) + \n (total ganado) - (total gastado)</string>
+    <string name="previous_month_balance">Previous month balance:</string>
+    <string name="total_income">Total ganado:</string>
+    <string name="total_expense">Total gastado:</string>
+    <string name="total_expense_fixed">Total gastado Fijo:</string>
+    <string name="total_expense_not_fixed">Total gastado no Fijo:</string>
+    <string name="total_expense_paid">Total gastado Pagado:</string>
+    <string name="total_expense_not_paid">Total gastado no Pagado:</string>
+    <string name="undo_snack_bar_text">Elemento eliminado</string>
+    <string name="undo_snack_bar_button_text">DESHACER</string>
+    <string name="not_paid">No pagado</string>
+    <string name="received">Recibió</string>
+    <string name="not_received">No recibió</string>
+    <string name="no_items">No hay elementos</string>
+    <string name="chart">Gráfico</string>
+    <string name="generate_file">Generar archivo</string>
+    <!-- Item Detail -->
+    <string name="title">Título</string>
+    <string name="description">Descripción</string>
+    <string name="value">Valor</string>
+    <string name="pay_date">Día de pago</string>
+    <string name="reception_date">Día de recibo</string>
+    <string name="income">Ganado</string>
+    <string name="expense">Gastado</string>
+    <string name="type">Tipo</string>
+    <string name="subtype">Categoría o Subtipo</string>
+    <string name="paid">Pagado</string>
+    <string name="fixed">Fijo</string>
+    <string name="due_day">Día de vencimento</string>
+    <string name="reception_day">Día de recibo</string>
+    <string name="hint_description">Descripción (Opcional)</string>
+    <string name="hint_value">0.000,00</string>
+    <string name="hint_subtype">Categoría o Subtipo (Opcional)</string>
+    <string name="hint_date">dd/mm/aaaa</string>
+    <string name="hint_day">31</string>
+    <string name="save_or_edit">Guardar o editar</string>
+    <string name="select_the_date">Seleccione la fecha</string>
+    <string name="cancel">Cancelar</string>
+    <string name="back">Volver</string>
+
+    <string name="title_should_not_be_empty">El título no debe estar vacío</string>
+    <string name="value_should_not_be_empty">El valor no debe estar vacío</string>
+    <string name="invalid_value">Valor no válido</string>
+    <string name="you_should_choose_the_type">Debes elegir un tipo\n(Ganado o Gastado)</string>
+    <string name="pay_date_should_not_be_empty">Día de pago no debe estar vacío</string>
+    <string name="invalid_pay_date">Día de pago no válido</string>
+    <string name="due_day_should_not_be_empty">Día de vencimento no debe estar vacío</string>
+    <string name="invalid_due_day">Día de vencimento no válido</string>
+    <string name="invalid_due_day_month">Día de vencimento no válido. Debe estar entre 1 y 31</string>
+    <!-- Settings -->
+    <string name="language">Idioma</string>
+    <string name="currency">Divisa</string>
+    <string name="use_previous_month_balance">Utilizar el saldo del mes anterior</string>
+    <string name="update_changes_in_real_time">Actualizar los cambios en tiempo real</string>
+    <string name="dark_mode">Modo oscuro</string>
+    <string name="ui_mode">Modo de pantalla</string>
+    <string name="light">Claro</string>
+    <string name="dark">Oscuro</string>
+    <string name="system_default">Predeterminado por el sistema</string>
+    <!-- Account -->
+    <string name="change_password_underlined"><u>Cambia la contraseña</u></string>
+    <string name="delete_account">Eliminar cuenta</string>
+    <string name="are_you_sure_you_want_to_logout">Estas seguro que quieres cerrar sesión?</string>
+    <string name="are_you_sure_you_want_to_delete_account">Estas seguro que quieres eliminar la cuenta?</string>
+    <string name="account_deleted_successfully">Cuenta eliminada exitosamente</string>
+    <string name="failed_to_delete_account">No se puedo eliminar la cuenta</string>
+    <!-- Change Password -->
+    <string name="change_password">Cambia la contraseña</string>
+    <string name="current_password">Contraseña actual</string>
+    <string name="new_password">Nueva contraseña</string>
+    <string name="repeat_the_new_password">Repita la nueva contraseña</string>
+    <string name="password_updated_successfully">Contraseña actualizada exitosamente</string>
+    <string name="failed_to_update_password">No se puedo actualizar la contraseña</string>
+    <!-- About -->
+    <string name="version">Versión: %1$s</string>
+    <string name="about_text">Esta es una aplicación para hacer gestión financiera.\n
+\nControlar los gastos mensuales puede ser una tarea difícil para muchas personas. Muchos de ellos no llevan la cuenta de sus gastos, y en ocasiones terminan siendo negativos por gastar más de lo que podian. Otras personas llevan la cuenta de sus gastos escribiéndolos, ya sea en una libreta, agenda, diario o incluso en un bloc de notas, y utilizan la ayuda de una calculadora para calcular sus gastos y/o su saldo del mes.\n
+\nEstos gastos pueden ser de los más variados tipos, como compras en el mercado, recibos del hogar como agua, luz, teléfono, gas, cuotas para compras de ropa o menaje, gastos de salud, medicamentos, gastos de estudio, útiles escolares, gastos de vehículos, hay una multitud de posibles tipos de gastos que tienen las personas cada mes, y que a muchas de estas personas les resulta difícil llevar un registro de sus gastos.\n
+\nUno de los problemas que sufren las personas que anotan sus gastos en papel es que no siempre que hacen una compra, o pagan alguna factura o gasto, tienen a mano papel y bolígrafo para hacer sus apuntes, y luego se les acaba olvidando anotarlo, y como resultado, terminan por no tener un control eficiente de sus gastos.\n
+\nEn este contexto, esta aplicación pretende ayudar a las personas a controlar sus gastos.\n
+\nEs posible informar gastos, de los más diversos tipos, para controlar todo lo que se gasta en el mes. También es posible reportar ganancias. La aplicación suma ganancias y gastos y muestra el saldo del mes.</string>
+    <!-- Month -->
+    <string name="january">Enero</string>
+    <string name="february">Febrero</string>
+    <string name="march">Marzo</string>
+    <string name="april">Abril</string>
+    <string name="may">Mayo</string>
+    <string name="june">Junio</string>
+    <string name="july">Julio</string>
+    <string name="august">Agosto</string>
+    <string name="september">Septiembre</string>
+    <string name="october">Octubre</string>
+    <string name="november">Noviembre</string>
+    <string name="december">Deciembre</string>
+    <!-- Chart -->
+    <string name="change_chart">Cambiar el gráfico</string>
+    <string name="no_subtype">Sin categoría</string>
+    <string name="chart_description_text">Gastos Mensuales por Categoría (Subtipo). Gastos totales: %1$s</string>
+    <!-- File generator -->
+    <string name="file_name">Nombre del archivo</string>
+    <string name="file_extension">extensión de archivo</string>
+    <string name="generating_file">Generando archivo…</string>
+    <string name="generate_file_error">Error al generar el archivo</string>
+    <string name="ok">OK</string>
+    <string name="save">Guardar</string>
+    <string name="invalid_file_name">Nombre del archivo no válido. No debe contener signos de puntuación, espacios ni caracteres especiales</string>
+    <string name="file_name_should_not_be_empty">El nombre del archivo no debe estar vacío</string>
+    <string name="file_extension_required">Extensión de archivo requerida</string>
+    <string name="csv">.csv</string>
+    <string name="pdf">.pdf</string>
+    <string name="txt">.txt</string>
+    <string name="xls">.xls</string>
+    <string name="view_file_snack_bar_text">Archivo generado</string>
+    <string name="view_file_snack_bar_button_text">VER</string>
+    <string name="id">ID</string>
+    <string name="creation_date">Día de creación</string>
+    <string name="sheet">Hoja</string>
+    <!-- Currency Converter -->
+    <string name="currency_converter">Convertidor de moneda</string>
+    <string name="amount">Monto</string>
+    <string name="from">De</string>
+    <string name="to">Para</string>
+    <string name="convert">Convertir</string>
+    <string name="amount_should_not_be_empty">Monto no debe estar vacío</string>
+    <string name="from_currency_required">Moneda \"De\" requerida</string>
+    <string name="to_currency_required">Moneda \"Para\" requerida</string>
+    <string name="from_to_currency_should_not_be_equal">Moneda \"De\" no debe ser igual a Moneda \"Para\"</string>
+    <string name="failure">falla</string>
+    <!-- Themes -->
+    <string name="themes">Temas</string>
+    <string name="default_with_brackets">(Predefinido)</string>
+    <string name="green">Verde</string>
+    <string name="red">Rojo</string>
+    <string name="blue">Azul</string>
+    <string name="pink">Rosado</string>
+    <string name="purple">Violeta</string>
+    <!-- Drawer Header -->
+    <string name="rate_the_app">Apreciado? Califica la aplicación</string>
+    <string name="know_the_pro_version">Conoce la versión Pro</string>
+</resources>
